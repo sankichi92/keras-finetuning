@@ -1,3 +1,9 @@
+/data/*
+/models/*
+/logs/*
+/results/*
+!.keep
+
 ### https://raw.github.com/github/gitignore/02c8ff6ed335f79a0d52ee9be9f4bc5c8b804962/python.gitignore
 
 # Byte-compiled / optimized / DLL files
@@ -91,5 +97,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
-
